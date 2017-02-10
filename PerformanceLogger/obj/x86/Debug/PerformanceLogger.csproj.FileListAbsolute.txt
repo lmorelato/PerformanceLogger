@@ -1,1 +1,0 @@
-D:\Workspace\Pessoal\PerformanceLogger\PerformanceLogger\bin\Debug\PerformanceLogger.exe.config

@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<AppValues>
-  <FolderPath>Log\</FolderPath>
-  <FileName>Log.txt</FileName>
-  <WriteToLogFile>true</WriteToLogFile>
-  <MaxNumberRecordsInLogFile>50</MaxNumberRecordsInLogFile>
-  <PollingSysParamsInterval>10</PollingSysParamsInterval>
-  <MonitoredProcesses>chrome;firefox;iexplore</MonitoredProcesses>
-</AppValues>
